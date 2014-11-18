@@ -41,3 +41,8 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+*.pdb
+Unity Stealth/Temp/bin/Debug/Unity.DataContract.dll
+Unity Stealth/Temp/bin/Debug/UnityEditor.dll
+Unity Stealth/Unity Stealth.v12.suo
