@@ -1,7 +1,7 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{E998CCAC-429C-5222-4BB9-6FC819CB78C7}"
+# Visual Studio 2008
+
+Project("{7402443D-A6C6-7512-D678-11B93E662856}") = "Unity Stealth", "Assembly-CSharp.csproj", "{E998CCAC-429C-5222-4BB9-6FC819CB78C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,7 +14,10 @@ Global
 		{E998CCAC-429C-5222-4BB9-6FC819CB78C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E998CCAC-429C-5222-4BB9-6FC819CB78C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+					GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
@@ -175,7 +178,5 @@ Global
 		$27.IncludeInstanceMembers = True
 		$27.IncludeStaticEntities = True
 	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
+
 EndGlobal
